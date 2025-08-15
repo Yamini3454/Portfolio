@@ -89,7 +89,7 @@ export const About = () => {
                                     <div>
                                         <h4 className='font-semibold'>Web Development Intern (oct 2024 - jan 2025)</h4>
                                         <p>Developed and maintained frontend application 
-                                            parts such as dashboars</p>
+                                            parts such as dashboards</p>
                                     </div>
                                 </div>     
                             </div>      
